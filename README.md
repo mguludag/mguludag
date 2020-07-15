@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<html>
   <head>
     <meta charset="UTF-8" />
     <link
@@ -155,3 +156,4 @@ Here are some ideas to get you started:
         .start();
     </script>
   </body>
+</html>
