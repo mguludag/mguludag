@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about C++20 🤣
 - 💬 Ask me about C++ and Qt
 - 🥅 2020 Goals: Learn and use C++20 on my projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
 
 ### Connect with me:
 
