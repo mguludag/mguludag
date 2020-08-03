@@ -43,6 +43,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [C++ STL std::vector'e Bakış](https://mguludag.github.io/2020/07/16/cpp-vector-e-bakis/)
+- [Github Pages Hexo ile PWA ve Daha Fazlası](https://mguludag.github.io/2020/05/22/Github-Pages-Hexo-ile-PWA-ve-Daha-Fazlasi/)
+- [Github Pages Üzerine Hexo Kurulumu](https://mguludag.github.io/2020/05/21/Github-Pages-Uzerine-Hexo-Kurulumu/)
+- [OpenCV DNN ile Daha Iyi Kenar Belirleme](https://mguludag.github.io/2020/05/12/OpenCV-DNN-ile-Daha-Iyi-Kenar-Belirleme/)
+- [Cisco Router Yönlendirme](https://mguludag.github.io/2020/03/09/cisco_router_routing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
