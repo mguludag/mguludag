@@ -51,7 +51,7 @@
 
 [website]: https://mguludag.github.io
 [twitter]: https://twitter.com/mguludag
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/mguludag
 
 
 
