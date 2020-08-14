@@ -7,11 +7,11 @@
 - 🥅 2020 Goals: Learn and use C++20 on my projects
 
 ## 🔧 Technologies & Tools
-![](https://github.com/mguludag/mguludag/raw/master/c.png)
-![](https://github.com/mguludag/mguludag/raw/master/cpp.png)
-![](https://github.com/mguludag/mguludag/raw/master/qt.png)
-![](https://github.com/mguludag/mguludag/raw/master/opencv.png)
-![](https://github.com/mguludag/mguludag/raw/master/python.png)
+<img height="48px" src="https://github.com/mguludag/mguludag/raw/master/c.png" />
+<img height="48px" src="https://github.com/mguludag/mguludag/raw/master/cpp.png" />
+<img height="48px" src="https://github.com/mguludag/mguludag/raw/master/qt.png" />
+<img height="48px" src="https://github.com/mguludag/mguludag/raw/master/opencv.png" />
+<img height="48px" src="https://github.com/mguludag/mguludag/raw/master/python.png" />
 
 ### Connect with me:
 
