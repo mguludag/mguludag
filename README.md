@@ -1,5 +1,7 @@
 ### Hi there, I'm M. Galib <img height="22px"  src="https://github.com/mguludag/mguludag/raw/master/wave.gif" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mguludag" alt="mguludag" /> </p>
+
 ## I'm a C++ and Qt Developer!
 - 🔭 I’m currently working on a Cross Platform anti-censorship app!
 - 🌱 I’m currently learning about C++20 🤣
@@ -31,13 +33,8 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&layout=compact&hide=javascript,html)](https://github.com/mguludag/repositories)
-<img align="left" alt="mguludag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mguludag&show_icons=true&hide_border=true" />
+<img alt="mguludag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mguludag&show_icons=true&hide_border=true" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mguludag" alt="mguludag" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&layout=compact&hide=html" alt="mguludag" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mguludag&show_icons=true" alt="mguludag" /></p>
 
 [website]: https://mguludag.github.io
 [twitter]: https://twitter.com/mguludag
