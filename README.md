@@ -55,7 +55,7 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag)](https://github.com/mguludag/repositories)
-<img align="left" alt="mguludag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mguludag&show_icons=true&hide_border=true" />
+<img align="left" alt="mguludag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mguludag&layout=compact" />
 
 [website]: https://mguludag.github.io
 [twitter]: https://twitter.com/mguludag
