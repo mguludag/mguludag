@@ -15,9 +15,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mguludag.github.io" width="22px" src="https://github.com/mguludag/mguludag/raw/master/website.svg" />][website]
-[<img align="left" alt="mguludag | Twitter" width="22px" src="https://github.com/mguludag/mguludag/raw/master/twitter.svg" />][twitter]
-[<img align="left" alt="mguludag | LinkedIn" width="22px" src="https://github.com/mguludag/mguludag/raw/master/linkedin.svg" />][linkedin]
+[<img align="left" alt="mguludag.github.io"  src="https://github.com/mguludag/mguludag/raw/master/website.svg" />][website]
+[<img align="left" alt="mguludag | Twitter"  src="https://github.com/mguludag/mguludag/raw/master/twitter.svg" />][twitter]
+[<img align="left" alt="mguludag | LinkedIn"  src="https://github.com/mguludag/mguludag/raw/master/linkedin.svg" />][linkedin]
 
 <br />
 
