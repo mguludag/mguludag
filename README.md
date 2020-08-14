@@ -1,4 +1,4 @@
-### Hi there, I'm M. Galib 👋
+### Hi there, I'm M. Galib ![](https://github.com/mguludag/mguludag/raw/master/wawe.gif)
 
 ## I'm a C++ and Qt Developer!
 - 🔭 I’m currently working on a Cross Platform anti-censorship app!
