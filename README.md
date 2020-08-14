@@ -44,6 +44,15 @@
 ---
 
 
+<table><tr><td valign="top" width="50%">
+
+### ⚡ Recent Releases
+<!-- recent_releases starts -->
+
+<!-- recent_releases ends -->
+
+</td><td valign="top" width="50%">
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [C++ STL std::vector'e Bakış](https://mguludag.github.io/2020/07/16/cpp-vector-e-bakis/)
@@ -52,6 +61,8 @@
 - [OpenCV DNN ile Daha Iyi Kenar Belirleme](https://mguludag.github.io/2020/05/12/OpenCV-DNN-ile-Daha-Iyi-Kenar-Belirleme/)
 - [Cisco Router Yönlendirme](https://mguludag.github.io/2020/03/09/cisco_router_routing/)
 <!-- BLOG-POST-LIST:END -->
+
+</td></tr></table>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&layout=compact&hide=javascript,html)](https://github.com/mguludag/repositories)
@@ -80,41 +91,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table><tr><td valign="top" width="50%">
-
-### Recent releases
-<!-- recent_releases starts -->
-[datasette-cluster-map 0.11.1](https://github.com/simonw/datasette-cluster-map/releases/tag/0.11.1) - 2020-08-14
-
-[datasette-graphql 0.12.1](https://github.com/simonw/datasette-graphql/releases/tag/0.12.1) - 2020-08-13
-
-[datasette 0.47.2](https://github.com/simonw/datasette/releases/tag/0.47.2) - 2020-08-12
-
-[sqlite-utils 2.15.1](https://github.com/simonw/sqlite-utils/releases/tag/2.15.1) - 2020-08-12
-
-[datasette-json-html 0.6.1](https://github.com/simonw/datasette-json-html/releases/tag/0.6.1) - 2020-08-09
-
-[csvs-to-sqlite 1.1](https://github.com/simonw/csvs-to-sqlite/releases/tag/1.1) - 2020-08-09
-
-[asgi-csrf 0.6.1](https://github.com/simonw/asgi-csrf/releases/tag/0.6.1) - 2020-08-09
-
-[datasette-insert-unsafe 0.1](https://github.com/simonw/datasette-insert-unsafe/releases/tag/0.1) - 2020-07-31
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="50%">
-
-### On my blog
-<!-- blog starts -->
-[Weeknotes: Installing Datasette with Homebrew, more GraphQL, WAL in SQLite](http://simonwillison.net/2020/Aug/13/weeknotes-datasette-homebrew-graphql/) - 2020-08-13
-
-[GraphQL in Datasette with the new datasette-graphql plugin](http://simonwillison.net/2020/Aug/7/datasette-graphql/) - 2020-08-07
-
-[Fun with binary data and SQLite](http://simonwillison.net/2020/Jul/30/fun-binary-data-and-sqlite/) - 2020-07-30
-
-[Weeknotes: datasette-copyable, datasette-insert-api](http://simonwillison.net/2020/Jul/23/datasette-copyable-datasette-insert-api/) - 2020-07-23
-
-[Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more](http://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/) - 2020-07-17
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
-
-</td></tr></table>
