@@ -116,6 +116,5 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more](http://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/) - 2020-07-17
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
-</td><td valign="top" width="50%">
 
 </td></tr></table>
