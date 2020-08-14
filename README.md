@@ -11,7 +11,7 @@
 ## 🔧 Technologies & Tools
 <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=c" title="Check out C repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/c.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=c%2B%2B" title="Check out C++ repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/cpp.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=qt&type=&language=" title="Check out Qt repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/qt.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=opencv&type=&language=" title="Check out OpenCV repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/opencv.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=python" title="Check out Python repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/python.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=matlab" title="Check out MATLAB repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/matlab.png" /></a>
 
-### Connect with me:
+### 💬 Connect with me:
 
 [<img alt="mguludag.github.io"  src="https://github.com/mguludag/mguludag/raw/master/website.svg" />][website]
 [<img alt="mguludag | Twitter"  src="https://github.com/mguludag/mguludag/raw/master/twitter.svg" />][twitter]
