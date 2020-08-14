@@ -44,16 +44,7 @@
 ---
 
 
-<table><tr><td valign="top" width="50%">
-
-### ⚡ Recent Releases
-<!-- recent_releases starts -->
-
-<!-- recent_releases ends -->
-
-</td><td valign="top" width="50%">
-
-### 📕 Latest Blog Posts
+### 📕 [Latest Blog Posts](https://mguludag.github.io)
 <!-- BLOG-POST-LIST:START -->
 - [C++ STL std::vector'e Bakış](https://mguludag.github.io/2020/07/16/cpp-vector-e-bakis/)
 - [Github Pages Hexo ile PWA ve Daha Fazlası](https://mguludag.github.io/2020/05/22/Github-Pages-Hexo-ile-PWA-ve-Daha-Fazlasi/)
@@ -62,7 +53,6 @@
 - [Cisco Router Yönlendirme](https://mguludag.github.io/2020/03/09/cisco_router_routing/)
 <!-- BLOG-POST-LIST:END -->
 
-</td></tr></table>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&layout=compact&hide=javascript,html)](https://github.com/mguludag/repositories)
