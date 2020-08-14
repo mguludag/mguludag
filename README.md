@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Learn and use C++20 on my projects
 
 ## 🔧 Technologies & Tools
-<img height="48px" src="https://github.com/mguludag/mguludag/raw/master/c.png" /> <img height="48px" src="https://github.com/mguludag/mguludag/raw/master/cpp.png" /> <img height="48px" src="https://github.com/mguludag/mguludag/raw/master/qt.png" /> <img height="48px" src="https://github.com/mguludag/mguludag/raw/master/opencv.png" /> <img height="48px" src="https://github.com/mguludag/mguludag/raw/master/python.png" />
+<a href="https://github.com/mguludag?tab=repositories&q=&type=&language=c"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/c.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=c%2B%2B"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/cpp.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=qt&type=&language="><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/qt.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=opencv&type=&language="><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/opencv.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=qt&type=&language=python"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/python.png" /></a>
 
 ### Connect with me:
 
