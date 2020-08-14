@@ -32,7 +32,7 @@
 
 
 ---
-<img alt="mguludag's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&hide_border=true&hide=javascript,html" /> <img height="240px" alt="mguludag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mguludag&show_icons=true&hide_border=true" />
+<img alt="mguludag's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&hide_border=true&hide=javascript,html" /> <img height="220px" alt="mguludag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mguludag&show_icons=true&hide_border=true" />
 
 
 [website]: https://mguludag.github.io
