@@ -6,12 +6,18 @@
 - 💬 Ask me about C++ and Qt
 - 🥅 2020 Goals: Learn and use C++20 on my projects
 
+## 🔧 Technologies & Tools
+![](https://github.com/mguludag/mguludag/raw/master/c.png)
+![](https://github.com/mguludag/mguludag/raw/master/cpp.png)
+![](https://github.com/mguludag/mguludag/raw/master/qt.png)
+![](https://github.com/mguludag/mguludag/raw/master/opencv.png)
+![](https://github.com/mguludag/mguludag/raw/master/python.png)
 
 ### Connect with me:
 
-[<img align="left" alt="mguludag.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mguludag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mguludag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mguludag.github.io" width="22px" src="https://github.com/mguludag/mguludag/raw/master/website.svg" />][website]
+[<img align="left" alt="mguludag | Twitter" width="22px" src="https://github.com/mguludag/mguludag/raw/master/twitter.svg" />][twitter]
+[<img align="left" alt="mguludag | LinkedIn" width="22px" src="https://github.com/mguludag/mguludag/raw/master/linkedin.svg" />][linkedin]
 
 <br />
 
