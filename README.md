@@ -32,7 +32,7 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&layout=compact&hide=javascript,html)](https://github.com/mguludag/repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguludag&layout=compact&hide_border=true&hide=javascript,html)](https://github.com/mguludag/repositories)
 <img alt="mguludag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mguludag&show_icons=true&hide_border=true" />
 
 
