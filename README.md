@@ -18,6 +18,7 @@
 [<img align="left" alt="mguludag.github.io"  src="https://github.com/mguludag/mguludag/raw/master/website.svg" />][website]
 [<img align="left" alt="mguludag | Twitter"  src="https://github.com/mguludag/mguludag/raw/master/twitter.svg" />][twitter]
 [<img align="left" alt="mguludag | LinkedIn"  src="https://github.com/mguludag/mguludag/raw/master/linkedin.svg" />][linkedin]
+[<img align="left" alt="mguludag | Medium"  src="https://github.com/mguludag/mguludag/raw/master/medium.svg" />][medium]
 
 <br />
 
@@ -63,6 +64,7 @@
 [website]: https://mguludag.github.io
 [twitter]: https://twitter.com/mguludag
 [linkedin]: https://linkedin.com/in/mguludag
+[medium]: https://medium.com/@mguludag
 
 
 
