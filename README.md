@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mguludag" alt="mguludag" /> </p>
 
 ## I'm a C++ and Qt Developer!
-- 🔭 I’m currently working on a Cross Platform anti-censorship app!
+- 🔭 I’m currently working on ---CLASSIFIED INFORMATION---
 - 🌱 I’m currently learning about C++20 
 - 💬 Ask me about C++ and Qt
 - 🥅 2020 Goals: Learn and use C++20 on my projects
