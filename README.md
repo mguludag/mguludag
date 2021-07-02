@@ -3,10 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mguludag" alt="mguludag" /> </p>
 
 ## I'm a C++ and Qt Developer!
-- 🔭 I’m currently working on ---CLASSIFIED INFORMATION---
-- 🌱 I’m currently learning about C++20 
-- 💬 Ask me about C++ and Qt
-- 🥅 2020 Goals: Learn and use C++20 on my projects
+
 
 ## 🔧 Technologies & Tools
 <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=c" title="Check out C repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/c.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=c%2B%2B" title="Check out C++ repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/cpp.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=qt&type=&language=" title="Check out Qt repos!"><img height="44px" src="https://github.com/mguludag/mguludag/raw/master/qt.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=opencv&type=&language=" title="Check out OpenCV repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/opencv.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=python" title="Check out Python repos!"><img height="48px" src="https://github.com/mguludag/mguludag/raw/master/python.png" /></a> <a href="https://github.com/mguludag?tab=repositories&q=&type=&language=matlab" title="Check out MATLAB repos!"><img height="52px" src="https://github.com/mguludag/mguludag/raw/master/matlab.png" /></a>
